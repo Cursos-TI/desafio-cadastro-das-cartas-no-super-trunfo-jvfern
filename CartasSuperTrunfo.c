@@ -45,15 +45,4 @@ int main() {
     printf("Nome da cidade: %s\n - População: %d\n", nome_2,pop_2);
     printf("Área: %.2f\n - Pontos turísticos: %d\n", pib_2,tur_2);
 return 0;
-
-
-
-
-    
-
-
-
-
-
-
 }
